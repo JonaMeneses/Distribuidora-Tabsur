@@ -1,0 +1,84 @@
+c:\users\jonimeneses\documents\visual studio 2010\Projects\login\login\bin\Debug\login.exe
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Agregar_clientes.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Agregar_producto.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Agregar_usuario.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Agregar_vendedor.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Agregar_Venta.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Form1.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.menu.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Properties.Resources.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Ventana_Almacen.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Ventana_cliente.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Ventana_grafica_ventas.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Ventana_vendedor.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Ventana_Ventas.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.exe
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.pdb
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\bin\Debug\login.pdb
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Agregar_Pagos.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Pagos.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Resumen_vendedor.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Corte_caja.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.ventana_pedidos.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Ventana_proveedores.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.exe
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.pdb
+D:\Nueva carpeta\login\login\bin\Debug\login.exe
+D:\Nueva carpeta\login\login\bin\Debug\login.pdb
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Agregar_clientes.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Agregar_Pagos.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Agregar_producto.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Agregar_usuario.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Agregar_vendedor.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Agregar_Venta.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Corte_caja.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Form1.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.menu.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Pagos.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Properties.Resources.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Resumen_vendedor.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Ventana_Almacen.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Ventana_cliente.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Ventana_grafica_ventas.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.ventana_pedidos.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Ventana_proveedores.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Ventana_vendedor.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.Ventana_Ventas.resources
+D:\Nueva carpeta\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.exe
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.pdb
+D:\Nueva carpeta - copia\login\login\bin\Debug\login.exe
+D:\Nueva carpeta - copia\login\login\bin\Debug\login.pdb
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.csprojResolveAssemblyReference.cache
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Agregar_clientes.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Agregar_Pagos.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Agregar_producto.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Agregar_usuario.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Agregar_vendedor.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Agregar_Venta.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Corte_caja.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Form1.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.menu.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Pagos.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Properties.Resources.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Resumen_vendedor.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Ventana_Almacen.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Ventana_cliente.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Ventana_grafica_ventas.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.ventana_pedidos.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Ventana_proveedores.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Ventana_vendedor.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.Ventana_Ventas.resources
+D:\Nueva carpeta - copia\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\bin\Debug\login.exe.config
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\RdlCompile.cache
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\RdlCompile.compiled
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Reporte_Ventas.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\bin\Debug\GMap.NET.Core.xml
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.rutas.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.carga_vendedor.resources
+C:\Users\JoniMeneses\Documents\Visual Studio 2010\Projects\login\login\obj\x86\Debug\login.Cambio.resources
